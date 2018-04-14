@@ -12,7 +12,7 @@ Import the extension to a gamemaker project and add the object to a room (or) co
 
 
 ### IDE/Game engine : 
-Gamemaker Studio 1.4.
+Gamemaker Studio 1.4.1804
 
 
 ### Preview : 
