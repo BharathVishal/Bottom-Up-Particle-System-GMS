@@ -1,4 +1,4 @@
-# Bottom-Up-Particle-System-GMS
+# Bottom-Up-Particle-System-GMS 
 
 A bottom up particle system entension for Gamemaker studio. 
 
