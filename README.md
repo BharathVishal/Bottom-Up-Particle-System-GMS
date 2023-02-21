@@ -24,4 +24,11 @@ Gamemaker Studio 1.4.1804
 
 ![Alt Text](https://github.com/BharathVishal/Bottom-Up-Particle-System-GMS/blob/master/Preview%20GIF/preview-gif.gif)
 
+
+
+#### License : 
+[Apache License 2.0](https://github.com/BharathVishal/Bottom-Up-Particle-System-GMS/blob/master/LICENSE)
+&nbsp;
+
+
 Thank you. :smile:
