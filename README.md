@@ -31,4 +31,5 @@ Gamemaker Studio 1.4.1804
 &nbsp;
 
 
-Thank you. :smile:
+Thank you. :slightly_smiling_face:
+
